@@ -3,16 +3,30 @@
 
     body{
         background-color: aquamarine;
-        position: fixed;
+        position: static;
     }
 .cat{
-    width: 300px;
-    height: 300px;
+    width: 330px;
+    height: 450px;
     border-radius: 10px;
     box-shadow: 5px 5px 30px grey;
     background-color: aliceblue;
+    margin-bottom: 20px;
 }
-
+.text{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 25px;
+}
+.pic{
+    margin-top: 80px;
+    margin-left: 15px;
+    position: absolute;
+    background-color: brown;
+    width: 300px;
+    height: 350px;
+}
 
 
 
