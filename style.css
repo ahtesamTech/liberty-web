@@ -3,6 +3,7 @@
 
     body{
         background-color: aquamarine;
+        position: fixed;
     }
 .cat{
     width: 300px;
